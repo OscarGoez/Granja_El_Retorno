@@ -1,27 +1,40 @@
-# Finca
+# 🌿 Posada Rural - Granja El Retorno
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+Bienvenido al repositorio del sitio web oficial de **Granja El Retorno**, una posada rural ubicada en **Liborina, Antioquia (Colombia)**.  
+Este proyecto está desarrollado con **Angular** y busca ofrecer una experiencia digital cálida, informativa y optimizada para el turismo rural.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descripción del Proyecto
 
-## Code scaffolding
+**Granja El Retorno** es una posada de recreo donde la naturaleza, la hospitalidad y las actividades al aire libre se combinan para ofrecer a los visitantes una experiencia auténtica del campo antioqueño.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+El sitio web presenta:
+- Información general de la posada  
+- Galería y carrusel de imágenes  
+- Mapa y ruta de acceso  
+- Formulario de contacto  
+- Historia, misión, visión y valores  
+- Servicios y experiencias rurales  
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Objetivos
 
-## Running unit tests
+- Ofrecer información clara, atractiva y actualizada sobre la posada.
+- Mejorar el **SEO local** y la visibilidad en buscadores (Google, Maps, etc.).
+- Facilitar la **comunicación directa** con los visitantes mediante un formulario seguro.
+- Proporcionar una **estructura escalable y mantenible** con Angular.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## Tecnologías utilizadas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+| Categoría | Herramienta |
+|------------|-------------|
+| **Framework** | [Angular](https://angular.io/) |
+| **Lenguajes** | TypeScript, HTML5, SCSS |
+| **Servidor de desarrollo** | Node.js |
+| **Control de versiones** | Git + GitHub |
+| **UI/UX sugerida** | Angular Material / TailwindCSS |
+| **Integraciones** | Google Maps API, reCAPTCHA (para formularios) |
